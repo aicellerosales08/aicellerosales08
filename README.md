@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFF0F5,50:FFD1DC,100:FF9EBB&height=220&section=header&text=Hi%20there,%20I'm%20Aicelle%20🌾&fontSize=38&fontColor=8B2E4F&animation=fadeIn&fontAlignY=40&desc=Web%20Designer%20%26%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=17" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/>
-
-<img src="https://v0-personal-website-build-dusky.vercel.app/aicelle-illustration.png" width="220"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&duration=3500&pause=800&color=B23A62&center=true&vCenter=true&width=560&lines=Designing+simple%2C+cozy+digital+experiences+%F0%9F%8C%BC;Turning+ideas+into+clean%2C+usable+interfaces+%F0%9F%A7%B5;Growing+one+project+at+a+time+%F0%9F%8C%BE" alt="Typing SVG" />
-</a>
+<img src="banner.png" width="100%"/>
 
 <br>
 
