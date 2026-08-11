@@ -56,23 +56,31 @@ Fun Fact: I turn coffee ☕ and Figma frames into full experiences
 <td width="50%" valign="top">
 
 **🌐 Web Development**
+
 Develop responsive, fast, and clean websites using modern technologies.
 
 **✧ UI/UX Design**
+
 Design intuitive and visually appealing interfaces for great user experiences.
 
 </td>
 <td width="50%" valign="top">
 
 **▣ Wireframing & Prototyping**
+
 Build interactive wireframes and prototypes to visualize ideas and test user flows.
 
 **◫ Design Systems**
+
 Create consistent and scalable design systems for cohesive digital products.
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="whatido-decor.svg" width="70%"/>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
