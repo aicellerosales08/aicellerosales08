@@ -189,12 +189,24 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 ## 🎓 Certifications
 
-- 🛡️ Introduction to Cybersecurity — *Cisco Networking Academy*
-- 🖥️ Operating Systems Basics — *Cisco Networking Academy*
-- 🐧 Linux Essentials — *Cisco Networking Academy*
-- 🔐 IT Specialist – Cybersecurity — *Pearson*
+<div align="center">
+
+| | |
+|---|---|
+| 🛡️ Introduction to Cybersecurity | *Cisco Networking Academy* |
+| 🖥️ Operating Systems Basics | *Cisco Networking Academy* |
+| 🐧 Linux Essentials | *Cisco Networking Academy* |
+| 🔐 IT Specialist – Cybersecurity | *Pearson* |
+
+<img src="stats-decor.svg" width="50%"/>
+
+</div>
 
 ## 💼 Professional Focus
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 - 🌐 Web Design & Development
 - 🎨 UI/UX Design & Prototyping
@@ -205,6 +217,10 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 - 🔗 Link & Navigation Fixes
 - 📐 Responsive Layout & Cross-Browser Design
 - ⚡ Website Performance & Usability Improvements
+
+</td>
+<td width="50%" valign="top">
+
 - 🧠 User-Centered Design & Problem Solving
 - 🤖 AI-Assisted Creative & Development Workflows
 - 🎨 Graphic Design & Digital Content Creation
@@ -213,6 +229,52 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 - 🧹 Website Content Organization & Cleanup
 - 🗂️ CMS & Website Content Management
 - 🚀 Continuous Learning & Skill Development
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="stats-decor.svg" width="50%"/>
+</div>
+
+## 🌱 Currently Growing In
+
+<div align="center">
+
+🔹 Advanced Front-End Development&nbsp;&nbsp;•&nbsp;&nbsp;🔹 Back-End Development&nbsp;&nbsp;•&nbsp;&nbsp;🔹 Full-Stack Web Applications
+🔹 Modern JavaScript Frameworks&nbsp;&nbsp;•&nbsp;&nbsp;🔹 API Integration&nbsp;&nbsp;•&nbsp;&nbsp;🔹 Database Management
+🔹 Web Accessibility & Usability&nbsp;&nbsp;•&nbsp;&nbsp;🔹 Website Performance Optimization
+🔹 AI-Assisted Development&nbsp;&nbsp;•&nbsp;&nbsp;🔹 Scalable Web & Mobile Applications
+
+<br>
+
+<img src="stats-decor.svg" width="50%"/>
+
+</div>
+
+## 💡 What I Bring
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+- ✨ Creative problem-solving
+- 🎯 Attention to detail
+- 🧠 User-focused thinking
+- 🔧 Technical troubleshooting
+
+</td>
+<td width="50%" valign="top">
+
+- 🎨 Strong visual design sense
+- 📚 Fast learning & adaptability
+- 🤝 Collaboration on real-world projects
+- 🚀 Passion for building practical digital solutions
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
