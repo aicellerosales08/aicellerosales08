@@ -120,7 +120,6 @@ Create consistent and scalable design systems for cohesive digital products.
 
 <details open>
 <summary><b>🌾 Web Designer & Developer — Malama Co.</b> (Jul 2026 – Present)</summary>
-<br>
 
 *Part-time · Remote · Australia*
 
@@ -132,7 +131,6 @@ Manage and maintain Wix websites for Australian clients, build service landing p
 
 <details>
 <summary><b>🌻 AI Training Data Contributor — Outlier</b> (May 2026 – Jul 2026)</summary>
-<br>
 
 *Part-time · Remote*
 
@@ -144,7 +142,6 @@ Contributed high-quality voice and video datasets used for AI model training and
 
 <details>
 <summary><b>🌸 Front-End Developer / IT Technical Support — Torres Technology Center Corp.</b> (Feb 2026 – May 2026)</summary>
-<br>
 
 *Internship · On-site*
 
@@ -156,7 +153,6 @@ Developed and maintained responsive web apps using HTML, CSS, and JavaScript; pr
 
 <details>
 <summary><b>🍯 Data Annotator / Data Labelling — CrowdGen Pro</b> (Sep 2025 – Nov 2025)</summary>
-<br>
 
 *Part-time · Remote*
 
@@ -165,6 +161,10 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 `Data Annotation` `Data Labeling` `AI Data` `Quality Control`
 
 </details>
+
+<div align="center">
+<img src="experience-decor.svg" width="70%"/>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
