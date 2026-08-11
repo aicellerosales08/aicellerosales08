@@ -211,13 +211,24 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 - 🌐 Web Design & Development
 - 🎨 UI/UX Design & Prototyping
 - 🖥️ Front-End Development
-...
+- 📱 Responsive Web & Mobile Design
+- 🧩 Website Development & Optimization
+- 🛠️ Website Maintenance & Technical Improvements
+- 🔗 Link & Navigation Fixes
+- 📐 Responsive Layout & Cross-Browser Design
+- ⚡ Website Performance & Usability Improvements
 
 </td>
 <td width="50%" valign="top">
 
 - 🧠 User-Centered Design & Problem Solving
-...
+- 🤖 AI-Assisted Creative & Development Workflows
+- 🎨 Graphic Design & Digital Content Creation
+- 📊 Quality Assurance & Visual Review
+- 🔍 Research, Testing & Troubleshooting
+- 🧹 Website Content Organization & Cleanup
+- 🗂️ CMS & Website Content Management
+- 🚀 Continuous Learning & Skill Development
 
 </td>
 </tr>
@@ -231,8 +242,12 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 <div align="center">
 
-🔹 Advanced Front-End Development • 🔹 Back-End Development • 🔹 Full-Stack Web Applications
-...
+🔹 Advanced Front-End Development&nbsp;&nbsp;•&nbsp;&nbsp;🔹 Back-End Development&nbsp;&nbsp;•&nbsp;&nbsp;🔹 Full-Stack Web Applications
+🔹 Modern JavaScript Frameworks&nbsp;&nbsp;•&nbsp;&nbsp;🔹 API Integration&nbsp;&nbsp;•&nbsp;&nbsp;🔹 Database Management
+🔹 Web Accessibility & Usability&nbsp;&nbsp;•&nbsp;&nbsp;🔹 Website Performance Optimization
+🔹 AI-Assisted Development&nbsp;&nbsp;•&nbsp;&nbsp;🔹 Scalable Web & Mobile Applications
+
+<br>
 
 <img src="growing-decor.svg" width="70%"/>
 
@@ -245,13 +260,17 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 <td width="50%" valign="top">
 
 - ✨ Creative problem-solving
-...
+- 🎯 Attention to detail
+- 🧠 User-focused thinking
+- 🔧 Technical troubleshooting
 
 </td>
 <td width="50%" valign="top">
 
 - 🎨 Strong visual design sense
-...
+- 📚 Fast learning & adaptability
+- 🤝 Collaboration on real-world projects
+- 🚀 Passion for building practical digital solutions
 
 </td>
 </tr>
@@ -259,6 +278,10 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 <div align="center">
 <img src="bring-decor.svg" width="70%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
 </div>
 
 ## 🌻 GitHub Stats
