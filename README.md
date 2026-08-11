@@ -227,7 +227,7 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 ## 🏆 Trophies
 
 <div align="center">
-<img src="assets/playful-vibes.svg" width="100%"/>
+<img src="playful-vibes.svg" width="100%"/>
 </div>
 
 <br>
