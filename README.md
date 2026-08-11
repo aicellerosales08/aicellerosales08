@@ -1,4 +1,4 @@
-<div align="center">
+i <div align="center">
 
 <img src="banner.png" width="100%"/>
 
@@ -194,12 +194,25 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 - 🐧 Linux Essentials — *Cisco Networking Academy*
 - 🔐 IT Specialist – Cybersecurity — *Pearson*
 
-## 🌤️ Goals
+## 💼 Professional Focus
 
-- ✨ Enhance my skills in **UI/UX** and **Front-End Development**
-- 🌾 Collaborate on **real-world projects**
-- 🍞 Build scalable web and mobile apps
-- 🌱 Explore **Back-End Development** for full-stack projects
+- 🌐 Web Design & Development
+- 🎨 UI/UX Design & Prototyping
+- 🖥️ Front-End Development
+- 📱 Responsive Web & Mobile Design
+- 🧩 Website Development & Optimization
+- 🛠️ Website Maintenance & Technical Improvements
+- 🔗 Link & Navigation Fixes
+- 📐 Responsive Layout & Cross-Browser Design
+- ⚡ Website Performance & Usability Improvements
+- 🧠 User-Centered Design & Problem Solving
+- 🤖 AI-Assisted Creative & Development Workflows
+- 🎨 Graphic Design & Digital Content Creation
+- 📊 Quality Assurance & Visual Review
+- 🔍 Research, Testing & Troubleshooting
+- 🧹 Website Content Organization & Cleanup
+- 🗂️ CMS & Website Content Management
+- 🚀 Continuous Learning & Skill Development
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
