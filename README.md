@@ -224,7 +224,7 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicellerosales08&layout=compact&hide_border=true&langs_count=10&title_color=B23A62&text_color=8B2E4F&bg_color=00000000" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aicellerosales08&bg_color=00000000&color=B23A62&line=FF8FAB&point=8B2E4F&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aicellerosales08&bg_color=00000000&color=B23A62&line=FF8FAB&point=8B2E4F&area=true&area_color=FFD1DC&hide_border=true&height=350&custom_title=Aicelle's%20Contribution%20Graph" width="95%"/>
 
 </div>
 
