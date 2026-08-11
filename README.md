@@ -232,9 +232,6 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF9EBB,50:FFD1DC,100:FFF0F5&height=120&section=footer&animation=fadeIn"/>
-
 **Thanks for visiting my little corner of GitHub 🌾🍄**
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=14&duration=2500&pause=800&color=B23A62&center=true&vCenter=true&width=400&lines=Let's+create+something+beautiful+together+%E2%99%A1" alt="Typing SVG"/>
