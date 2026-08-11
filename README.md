@@ -224,7 +224,7 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicellerosales08&layout=compact&hide_border=true&langs_count=10&title_color=B23A62&text_color=8B2E4F&bg_color=00000000" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aicellerosales08&bg_color=00000000&color=B23A62&line=FF8FAB&point=8B2E4F&area=true&area_color=FFD1DC&hide_border=true&height=350&custom_title=Aicelle's%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aicellerosales08&bg_color=00000000&color=B23A62&line=FF8FAB&point=8B2E4F&hide_border=true" width="90%"/>
 
 </div>
 
@@ -245,16 +245,9 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF9EBB,50:FFD1DC,100:FFF0F5&height=140&section=header&text=PRESS%20START&fontSize=28&fontColor=8B2E4F&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9EBB,50:FFD1DC,100:FFF0F5&height=140&section=header&text=PRESS%20START&fontSize=32&fontColor=8B2E4F&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2000&pause=600&color=B23A62&center=true&vCenter=true&width=500&lines=%3E+LOADING+PROFILE...;%3E+SKILLS+LEVEL+UP+%E2%9C%A8;%3E+INSERT+COIN+TO+CONTINUE" alt="Gaming Typing SVG"/>
-</div>
-
-<!-- 🎮 Snake game: para gumana ang animated snake na kumakain ng contribution graph mo,
-     idagdag ang platane/snk GitHub Action sa sarili mong repo, pagkatapos i-link dito:
-     https://github.com/Platane/snk -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/aicellerosales08/aicellerosales08/output/github-contribution-grid-snake.svg" width="90%" alt="Snake animation (setup guide below)"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=2000&pause=600&color=B23A62&center=true&vCenter=true&width=500&lines=%3E+Loading+profile...;%3E+Skills+leveled+up!+%E2%9C%A8;%3E+Insert+coin+to+continue+%F0%9F%95%B9%EF%B8%8F" alt="Gaming Typing SVG"/>
 </div>
 
 <div align="center">
