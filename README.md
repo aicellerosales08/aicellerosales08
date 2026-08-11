@@ -172,6 +172,8 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 | Project | Type | Description |
 |---|---|---|
 | 🔎 [**Onlook**](https://onlook-livid.vercel.app/) *(Thesis)* | Web | Collaborative system to monitor, report, and assist missing and cognitively impaired individuals |
@@ -181,7 +183,15 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 | 🎬 [**FilmTrack**](https://www.figma.com/design/bLes37eN9u3aa13n4X2n4b/FILMTRACK-WEBSITE-PHP) | Web | Movie tracking platform with watchlists and reviews |
 | 💚 [**LifeHaven**](https://www.figma.com/design/lcpe4JHUmionm4yfgHjnZ0/LIFEHAVEN-IOS-APP) | Mobile | Health & wellness app with fitness tracking and personalized goals |
 
+<br>
+
+<img src="projects-decor.svg" width="70%"/>
+
+<br>
+
 🌼 **20+ projects done** across web, mobile, and system design — see the full collection on my [portfolio](https://v0-personal-website-build-dusky.vercel.app).
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
