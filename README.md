@@ -50,7 +50,9 @@ Fun Fact: I turn coffee ☕ and Figma frames into functional digital experiences
 > *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
 
 <div align="center">
-<img src="aboutme-decor.svg" width="70%"/>
+
+<img src="profile-card.svg" width="640"/>
+
 </div>
 
 <div align="center">
