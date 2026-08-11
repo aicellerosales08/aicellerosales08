@@ -113,12 +113,12 @@ Create consistent and scalable design systems for cohesive digital products.
 
 | Skill | Level |
 |---|---|
-| HTML / CSS | ![](https://progress-bar.xyz/95/?width=200&color=ff8fab) |
-| JavaScript | ![](https://progress-bar.xyz/80/?width=200&color=ff8fab) |
-| Figma (UI/UX) | ![](https://progress-bar.xyz/90/?width=200&color=ff8fab) |
-| Wix Development | ![](https://progress-bar.xyz/85/?width=200&color=ff8fab) |
-| Python | ![](https://progress-bar.xyz/60/?width=200&color=ff8fab) |
-| Back-End (Learning) | ![](https://progress-bar.xyz/40/?width=200&color=ff8fab) |
+| HTML / CSS | ![](https://progress-bar.dev/95/?width=200&color=ff8fab) |
+| JavaScript | ![](https://progress-bar.dev/80/?width=200&color=ff8fab) |
+| Figma (UI/UX) | ![](https://progress-bar.dev/90/?width=200&color=ff8fab) |
+| Wix Development | ![](https://progress-bar.dev/85/?width=200&color=ff8fab) |
+| Python | ![](https://progress-bar.dev/60/?width=200&color=ff8fab) |
+| Back-End (Learning) | ![](https://progress-bar.dev/40/?width=200&color=ff8fab) |
 
 </div>
 
