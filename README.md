@@ -175,13 +175,13 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 <div align="center">
 
 | Project | Type | Description |
-|---|---|---|
-| 🔎 [**Onlook**](https://onlook-livid.vercel.app/) *(Thesis)* | Web | Collaborative system to monitor, report, and assist missing and cognitively impaired individuals |
-| 🏦 [**Bank System**](https://www.figma.com//8QRjN35QVqnhSKuUdcRgpn/BANK-SYSTEM) | System | Secure banking app with transfers, balance tracking, and reporting |
-| 🔄 [**Converter System**](https://www.figma.com/design/HTviG6YNluJ5W8Uc1N5QxL/CONVERTER-SYSTEM) | System | Real-time currency and unit converter with a clean UX |
-| 🛒 [**Freshly Dropped**](https://www.figma.com/design/RJqXQCecjVqomkvtOgvUfx/Freshly-Dropped) | Mobile | Food delivery & marketplace platform |
-| 🎬 [**FilmTrack**](https://www.figma.com/design/bLes37eN9u3aa13n4X2n4b/FILMTRACK-WEBSITE-PHP) | Web | Movie tracking platform with watchlists and reviews |
-| 💚 [**LifeHaven**](https://www.figma.com/design/lcpe4JHUmionm4yfgHjnZ0/LIFEHAVEN-IOS-APP) | Mobile | Health & wellness app with fitness tracking and personalized goals |
+|---|:---:|---|
+| 🔎 [**Onlook**](https://onlook-livid.vercel.app/) *(Thesis)* | <img src="badge-web.svg" width="28"/> Web | Collaborative system to monitor, report, and assist missing and cognitively impaired individuals |
+| 🏦 [**Bank System**](https://www.figma.com//8QRjN35QVqnhSKuUdcRgpn/BANK-SYSTEM) | <img src="badge-system.svg" width="28"/> System | Secure banking app with transfers, balance tracking, and reporting |
+| 🔄 [**Converter System**](https://www.figma.com/design/HTviG6YNluJ5W8Uc1N5QxL/CONVERTER-SYSTEM) | <img src="badge-system.svg" width="28"/> System | Real-time currency and unit converter with a clean UX |
+| 🛒 [**Freshly Dropped**](https://www.figma.com/design/RJqXQCecjVqomkvtOgvUfx/Freshly-Dropped) | <img src="badge-mobile.svg" width="28"/> Mobile | Food delivery & marketplace platform |
+| 🎬 [**FilmTrack**](https://www.figma.com/design/bLes37eN9u3aa13n4X2n4b/FILMTRACK-WEBSITE-PHP) | <img src="badge-web.svg" width="28"/> Web | Movie tracking platform with watchlists and reviews |
+| 💚 [**LifeHaven**](https://www.figma.com/design/lcpe4JHUmionm4yfgHjnZ0/LIFEHAVEN-IOS-APP) | <img src="badge-mobile.svg" width="28"/> Mobile | Health & wellness app with fitness tracking and personalized goals |
 
 <br>
 
