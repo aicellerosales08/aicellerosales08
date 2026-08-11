@@ -109,7 +109,17 @@ Create consistent and scalable design systems for cohesive digital products.
 
 <br><br>
 
-<img src="skills-progress.svg" width="640"/>
+**Skill Proficiency**
+
+| Skill | Level |
+|---|---|
+| HTML / CSS | ![](https://progress-bar.xyz/95/?width=200&color=ff8fab) |
+| JavaScript | ![](https://progress-bar.xyz/80/?width=200&color=ff8fab) |
+| Figma (UI/UX) | ![](https://progress-bar.xyz/90/?width=200&color=ff8fab) |
+| Wix Development | ![](https://progress-bar.xyz/85/?width=200&color=ff8fab) |
+| Python | ![](https://progress-bar.xyz/60/?width=200&color=ff8fab) |
+| Back-End (Learning) | ![](https://progress-bar.xyz/40/?width=200&color=ff8fab) |
+
 </div>
 
 <div align="center">
@@ -209,16 +219,16 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aicellerosales08&show_icons=true&hide_border=true&title_color=B23A62&text_color=8B2E4F&icon_color=FF9EBB&bg_color=00000000" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=aicellerosales08&hide_border=true&background=00000000&ring=FF9EBB&fire=FF8FAB&currStreakLabel=B23A62&sideLabels=8B2E4F&currStreakNum=8B2E4F&sideNums=8B2E4F&dates=B23A62" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aicellerosales08&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=B23A62&text_color=8B2E4F&icon_color=FF9EBB&bg_color=00000000" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aicellerosales08&hide_border=true&background=00000000&ring=FF9EBB&fire=FF8FAB&currStreakLabel=B23A62&sideLabels=8B2E4F&currStreakNum=8B2E4F&sideNums=8B2E4F&dates=B23A62" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicellerosales08&layout=compact&hide_border=true&title_color=B23A62&text_color=8B2E4F&bg_color=00000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicellerosales08&layout=compact&hide_border=true&langs_count=10&title_color=B23A62&text_color=8B2E4F&bg_color=00000000" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aicellerosales08&bg_color=00000000&color=B23A62&line=FF8FAB&point=8B2E4F&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aicellerosales08&bg_color=00000000&color=B23A62&line=FF8FAB&point=8B2E4F&area=true&area_color=FFD1DC&hide_border=true&height=350&custom_title=Aicelle's%20Contribution%20Graph" width="95%"/>
 
 </div>
 
-> 🌼 Replace `aicellerosales08` above with your actual GitHub username so the stats pull your real data.
+> 🌼 Palitan ang `aicellerosales08` ng tunay mong GitHub username sa lahat ng stats links sa taas para lumabas ang tamang data. Kapag hindi pa rin lumalabas ang isang image, karaniwang dahil private ang profile stats o kailangan i-enable ang "Private Contributions" sa GitHub settings mo.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
@@ -227,10 +237,25 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aicellerosales08&theme=juicyfresh&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=aicellerosales08&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
 </div>
 
+> 🍄 Kung may isang trophy na hindi lumalabas, madalas ito ay dahil zero pa ang value nun (hal. wala pang stars, followers, o commits sa year na iyon) — automatic itong lalabas once may activity ka na sa GitHub.
+
 <br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF9EBB,50:FFD1DC,100:FFF0F5&height=140&section=header&text=PRESS%20START&fontSize=28&fontColor=8B2E4F&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2000&pause=600&color=B23A62&center=true&vCenter=true&width=500&lines=%3E+LOADING+PROFILE...;%3E+SKILLS+LEVEL+UP+%E2%9C%A8;%3E+INSERT+COIN+TO+CONTINUE" alt="Gaming Typing SVG"/>
+</div>
+
+<!-- 🎮 Snake game: para gumana ang animated snake na kumakain ng contribution graph mo,
+     idagdag ang platane/snk GitHub Action sa sarili mong repo, pagkatapos i-link dito:
+     https://github.com/Platane/snk -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/aicellerosales08/aicellerosales08/output/github-contribution-grid-snake.svg" width="90%" alt="Snake animation (setup guide below)"/>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF9EBB,50:FFD1DC,100:FFF0F5&height=120&section=footer&animation=fadeIn"/>
