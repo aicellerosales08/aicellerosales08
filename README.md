@@ -227,7 +227,7 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aicellerosales08&theme=juicyfresh&no-frame=true&row=1&column=6" />
+<img src="assets/playful-vibes.svg" width="100%"/>
 </div>
 
 <br>
