@@ -4,6 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/>
 
+<img src="https://v0-personal-website-build-dusky.vercel.app/aicelle-illustration.png" width="220"/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&duration=3500&pause=800&color=8B6B4A&center=true&vCenter=true&width=560&lines=Designing+simple%2C+cozy+digital+experiences+%F0%9F%8C%BC;Turning+ideas+into+clean%2C+usable+interfaces+%F0%9F%A7%B5;Growing+one+project+at+a+time+%F0%9F%8C%BE" alt="Typing SVG" />
 </a>
