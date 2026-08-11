@@ -305,8 +305,6 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 </div>
 
-> 🌼 Replace `aicellerosales08` above with your actual GitHub username so the stats pull your real data.
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
 </div>
