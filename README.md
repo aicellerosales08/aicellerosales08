@@ -50,37 +50,20 @@ Currently an IT student & professional exploring web development, UI/UX design, 
 
 ## 🧺 Skills & Tools
 
-**🎨 UI/UX & Design**
+**🌿 Development**
 
-![Figma](https://img.shields.io/badge/Figma-FADCE3?style=for-the-badge&logo=figma&logoColor=8B2E4F)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FFD1DC?style=for-the-badge&logo=adobexd&logoColor=8B2E4F)
-![Canva](https://img.shields.io/badge/Canva-FFE4EC?style=for-the-badge&logo=canva&logoColor=8B2E4F)
+![HTML](https://img.shields.io/badge/HTML-95%25-FFB6C1?style=for-the-badge&logo=html5&logoColor=8B2E4F)
+![CSS](https://img.shields.io/badge/CSS-90%25-FFB6C1?style=for-the-badge&logo=css3&logoColor=8B2E4F)
+![JavaScript](https://img.shields.io/badge/JavaScript-55%25-F8B4CE?style=for-the-badge&logo=javascript&logoColor=8B2E4F)
+![Python](https://img.shields.io/badge/Python-75%25-F7C6DC?style=for-the-badge&logo=python&logoColor=8B2E4F)
+![C++](https://img.shields.io/badge/C%2B%2B-50%25-E9AFC4?style=for-the-badge&logo=cplusplus&logoColor=8B2E4F)
+![PHP](https://img.shields.io/badge/PHP-65%25-F49AC1?style=for-the-badge&logo=php&logoColor=8B2E4F)
 
-**🌿 Web Development**
+**🎨 UI/UX Design**
 
-![HTML](https://img.shields.io/badge/HTML-FFD6E0-?style=for-the-badge&logo=html5&logoColor=8B2E4F)
-![CSS](https://img.shields.io/badge/CSS-FFC1D1-?style=for-the-badge&logo=css3&logoColor=8B2E4F)
-![JavaScript](https://img.shields.io/badge/JavaScript-F8B4CE-?style=for-the-badge&logo=javascript&logoColor=8B2E4F)
-![PHP](https://img.shields.io/badge/PHP-F49AC1-?style=for-the-badge&logo=php&logoColor=8B2E4F)
-
-**🍄 Programming**
-
-![Python](https://img.shields.io/badge/Python-F2A6C6-?style=for-the-badge&logo=python&logoColor=8B2E4F)
-![C++](https://img.shields.io/badge/C%2B%2B-EAB4C9-?style=for-the-badge&logo=cplusplus&logoColor=8B2E4F)
-
-<br>
-
-**📈 Proficiency**
-
-![HTML](https://img.shields.io/badge/HTML-95%25-FFB6C1?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-90%25-FFB6C1?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-100%25-FF8FAB?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-100%25-FF8FAB?style=for-the-badge)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-85%25-FFD1DC?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-75%25-F7C6DC?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-65%25-F49AC1?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-55%25-F8B4CE?style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B-50%25-E9AFC4?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-100%25-FF8FAB?style=for-the-badge&logo=figma&logoColor=8B2E4F)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-85%25-FFD1DC?style=for-the-badge&logo=adobexd&logoColor=8B2E4F)
+![Canva](https://img.shields.io/badge/Canva-100%25-FF8FAB?style=for-the-badge&logo=canva&logoColor=8B2E4F)
 
 <br>
 
