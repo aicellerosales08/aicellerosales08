@@ -1,0 +1,79 @@
+<svg viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF9EBB" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#B5E6C9"/>
+      <stop offset="80%" stop-color="#B5E6C9"/>
+      <stop offset="100%" stop-color="#FF9EBB" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="60" width="900" height="2" fill="url(#barGrad4)"/>
+
+  <!-- growing sprout in the center, looping grow animation -->
+  <g transform="translate(450,60)">
+    <g>
+      <line x1="0" y1="0" x2="0" y2="-22" stroke="#5A8F6E" stroke-width="3" stroke-linecap="round">
+        <animate attributeName="y2" values="0;-22;-22;0" keyTimes="0;0.4;0.8;1" dur="4s" repeatCount="indefinite"/>
+      </line>
+      <path d="M0,-14 Q-14,-20 -10,-32 Q4,-30 0,-14 Z" fill="#8FD9A8">
+        <animateTransform attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.4;0.6;1" dur="4s" repeatCount="indefinite" additive="sum"/>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4;0.6;1" dur="4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0,-16 Q14,-22 11,-34 Q-3,-31 0,-16 Z" fill="#B5E6C9">
+        <animate attributeName="opacity" values="0;0;0;1;1" keyTimes="0;0.4;0.6;0.7;1" dur="4s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="0" cy="-36" r="5" fill="#FFB0CB">
+        <animate attributeName="opacity" values="0;0;0;0;1" keyTimes="0;0.4;0.6;0.85;1" dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <ellipse cx="0" cy="2" rx="14" ry="4" fill="#8B4F3A" opacity="0.5"/>
+  </g>
+
+  <!-- side sprouts smaller, offset timing -->
+  <g transform="translate(350,64)">
+    <line x1="0" y1="0" x2="0" y2="-14" stroke="#5A8F6E" stroke-width="2.5" stroke-linecap="round">
+      <animate attributeName="y2" values="0;-14;-14;0" keyTimes="0;0.4;0.8;1" dur="3.4s" begin="0.5s" repeatCount="indefinite"/>
+    </line>
+    <path d="M0,-8 Q-9,-13 -6,-20 Q3,-18 0,-8 Z" fill="#8FD9A8">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4;0.6;1" dur="3.4s" begin="0.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(560,66)">
+    <line x1="0" y1="0" x2="0" y2="-12" stroke="#5A8F6E" stroke-width="2.5" stroke-linecap="round">
+      <animate attributeName="y2" values="0;-12;-12;0" keyTimes="0;0.4;0.8;1" dur="3.8s" begin="1s" repeatCount="indefinite"/>
+    </line>
+    <path d="M0,-7 Q8,-12 5,-18 Q-3,-16 0,-7 Z" fill="#B5E6C9">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4;0.6;1" dur="3.8s" begin="1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- ladybug walking across -->
+  <g transform="translate(150,60)">
+    <ellipse cx="0" cy="0" rx="6" ry="5" fill="#FF6F91"/>
+    <line x1="0" y1="-5" x2="0" y2="5" stroke="#3A2A2E" stroke-width="1"/>
+    <circle cx="-2.5" cy="-1" r="1" fill="#3A2A2E"/>
+    <circle cx="2.5" cy="1" r="1" fill="#3A2A2E"/>
+    <circle cx="-3" cy="-5" r="1.3" fill="#3A2A2E"/>
+    <animateTransform attributeName="transform" type="translate" values="150,60; 300,60; 150,60" dur="10s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- floating leaves drifting -->
+  <g fill="#8FD9A8" opacity="0.85">
+    <path d="M700,20 Q710,10 720,20 Q710,30 700,20 Z">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -15,20; -30,45" dur="5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 710 20; 180 710 20; 360 710 20" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.6;0" dur="5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- twinkles -->
+  <g fill="#FFD166">
+    <path d="M780,45 l1.5,4 4,1 -3,2.5 1,4 -3.5,-2.5 -3.5,2.5 1,-4 -3,-2.5 4,-1 Z">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M120,30 l1.5,4 4,1 -3,2.5 1,4 -3.5,-2.5 -3.5,2.5 1,-4 -3,-2.5 4,-1 Z">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
