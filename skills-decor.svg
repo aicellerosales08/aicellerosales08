@@ -1,0 +1,84 @@
+<svg viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad8" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF9EBB" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#FFD1DC"/>
+      <stop offset="80%" stop-color="#FFD1DC"/>
+      <stop offset="100%" stop-color="#FF9EBB" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="55" width="900" height="2" fill="url(#barGrad8)"/>
+
+  <!-- toolbox, center, lid bouncing open with sparkle burst -->
+  <g transform="translate(450,58)">
+    <rect x="-22" y="-2" width="44" height="24" rx="3" fill="#B23A62"/>
+    <rect x="-22" y="-2" width="44" height="6" fill="#8B2E4F"/>
+    <rect x="-6" y="-8" width="12" height="8" rx="2" fill="none" stroke="#8B2E4F" stroke-width="2.5"/>
+    <g>
+      <path d="M-14,-4 l1.5,4 4,1 -3,2.5 1,4 -3.5,-2.5 -3.5,2.5 1,-4 -3,-2.5 4,-1 Z" fill="#FFD166">
+        <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0; -8,-14" dur="2s" repeatCount="indefinite"/>
+      </path>
+      <path d="M14,-4 l1.5,4 4,1 -3,2.5 1,4 -3.5,-2.5 -3.5,2.5 1,-4 -3,-2.5 4,-1 Z" fill="#FF9EBB">
+        <animate attributeName="opacity" values="0;1;0" dur="2.3s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0; 10,-16" dur="2.3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <animateTransform attributeName="transform" type="translate" values="450,58; 450,52; 450,58" dur="2.6s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- floating gear spinning left -->
+  <g transform="translate(320,45)">
+    <g fill="#FF9EBB">
+      <path d="M0,-11 L2.8,-11 L3.4,-7 L6,-6 L9,-8.3 L11,-6.3 L9,-3.3 L10,0 L13.5,0 L13.5,2.8 L10,3.4 L9,6 L11,9 L9,11 L6,9 L3.4,10 L2.8,13.5 L0,13.5 L-0.6,10 L-3.4,9 L-6,11 L-8.3,9 L-6.3,6 L-7.5,3.4 L-11,2.8 L-11,0 L-7.5,-0.6 L-6.3,-3.4 L-8.3,-6 L-6,-8.3 L-3.4,-7 L-0.6,-7.5 Z"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 320 45" to="360 320 45" dur="5s" repeatCount="indefinite"/>
+    </g>
+    <animateTransform attributeName="transform" type="translate" values="320,45; 320,38; 320,45" dur="3s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- floating brush right -->
+  <g transform="translate(590,42)">
+    <rect x="-2.5" y="-11" width="5" height="11" rx="1.5" fill="#8B4F3A"/>
+    <polygon points="-3.5,-11 3.5,-11 2,-16 -2,-16" fill="#8E75FF"/>
+    <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 590 42; -15 590 42; 0 590 42; 15 590 42; 0 590 42" dur="2.8s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- puzzle piece for tools, drifting -->
+  <g transform="translate(200,55)">
+    <path d="M-8,-8 h6 a3,3 0 0 1 0,6 v2 h6 a3,3 0 0 1 6,0 v6 h-6 a3,3 0 0 0 0,6 h-6 v-6 a3,3 0 0 1 -6,0 v-6 h6 Z" fill="#B5E6C9" opacity="0.9"/>
+    <animateTransform attributeName="transform" type="translate" values="200,55; 200,46; 200,55" dur="2.4s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- robot head for AI tools, blinking -->
+  <g transform="translate(720,50)">
+    <rect x="-10" y="-9" width="20" height="16" rx="4" fill="#8E75FF"/>
+    <circle cx="-4" cy="-2" r="2" fill="#fff">
+      <animate attributeName="opacity" values="1;1;0.1;1" keyTimes="0;0.85;0.9;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="4" cy="-2" r="2" fill="#fff">
+      <animate attributeName="opacity" values="1;1;0.1;1" keyTimes="0;0.85;0.9;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="-9" x2="0" y2="-14" stroke="#8E75FF" stroke-width="2"/>
+    <circle cx="0" cy="-15" r="2" fill="#FFD166"/>
+    <animateTransform attributeName="transform" type="translate" values="720,50; 720,43; 720,50" dur="2.9s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- small twinkles scattered -->
+  <g fill="#FFD166">
+    <path d="M140,20 l1,3 3,0.8 -2.3,1.9 0.7,3 -2.7,-1.9 -2.7,1.9 0.7,-3 -2.3,-1.9 3,-0.8 Z">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M800,25 l1,3 3,0.8 -2.3,1.9 0.7,3 -2.7,-1.9 -2.7,1.9 0.7,-3 -2.3,-1.9 3,-0.8 Z">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- little mushroom, tools theme buddy -->
+  <g transform="translate(80,52)">
+    <ellipse cx="0" cy="6" rx="7" ry="3.5" fill="#FFDCE8"/>
+    <path d="M-7,0 Q0,-12 7,0 Z" fill="#FF9EBB"/>
+    <circle cx="-2.5" cy="-4" r="1.2" fill="#fff"/>
+    <animateTransform attributeName="transform" type="translate" values="80,52; 80,46; 80,52" dur="1.2s" repeatCount="indefinite"/>
+  </g>
+</svg>
