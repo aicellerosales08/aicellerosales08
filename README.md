@@ -81,7 +81,31 @@ Create consistent and scalable design systems for cohesive digital products.
 ## 🧺 Skills & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,figma,xd&theme=light" />
+
+**Front-End Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,python,cpp,php&theme=light" />
+
+<br><br>
+
+**UI/UX & Design**
+
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps&theme=light" />
+
+<br><br>
+
+**Tools & Technologies**
+
+<img src="https://skillicons.dev/icons?i=github,vscode,vercel,wix&theme=light" />
+
+<br><br>
+
+**AI Tools**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
 
 <br><br>
 
