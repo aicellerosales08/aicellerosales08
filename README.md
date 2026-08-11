@@ -159,12 +159,12 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AicelleRosales&show_icons=true&hide_border=true&title_color=8B6B4A&text_color=5C4033&icon_color=C9A47E&bg_color=00000000" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AicelleRosales&hide_border=true&background=00000000&ring=C9A47E&fire=E8B4BC&currStreakLabel=8B6B4A&sideLabels=5C4033&currStreakNum=5C4033&sideNums=5C4033&dates=8B6B4A" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aicellerosales08&show_icons=true&hide_border=true&title_color=8B6B4A&text_color=5C4033&icon_color=C9A47E&bg_color=00000000" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=aicellerosales08&hide_border=true&background=00000000&ring=C9A47E&fire=E8B4BC&currStreakLabel=8B6B4A&sideLabels=5C4033&currStreakNum=5C4033&sideNums=5C4033&dates=8B6B4A" width="48%"/>
 
 </div>
 
-> 🌼 Replace `AicelleRosales` above with your actual GitHub username so the stats pull your real data.
+> 🌼 Replace `aicellerosales08` above with your actual GitHub username so the stats pull your real data.
 
 <br>
 
