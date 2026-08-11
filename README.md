@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=B23A62&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aicelle+%F0%9F%91%8B;Web+Designer+%7C+Developer;UI%2FUX+Designer+%F0%9F%8C%B7;Turning+ideas+into+beautiful+experiences" alt="Typing SVG"/>
 
+<img src="soundwave-decor.svg" width="100%"/>
+
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌾_View_Portfolio-FFD1DC?style=for-the-badge&logoColor=8B2E4F)](https://v0-personal-website-build-dusky.vercel.app)
@@ -119,7 +121,7 @@ Create consistent and scalable design systems for cohesive digital products.
 <img src="progress-full.svg" width="640"/>
 <br><br>
 <img src="skills-decor.svg" width="70%"/>
-</div
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
