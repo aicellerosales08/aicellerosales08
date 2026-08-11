@@ -45,8 +45,6 @@ Fun Fact: I turn coffee ☕ and Figma frames into full experiences
 
 > *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
 
-<br>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
 </div>
@@ -57,26 +55,24 @@ Fun Fact: I turn coffee ☕ and Figma frames into full experiences
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Development
+**🌐 Web Development**
 Develop responsive, fast, and clean websites using modern technologies.
 
-### ✧ UI/UX Design
+**✧ UI/UX Design**
 Design intuitive and visually appealing interfaces for great user experiences.
 
 </td>
 <td width="50%" valign="top">
 
-### ▣ Wireframing & Prototyping
+**▣ Wireframing & Prototyping**
 Build interactive wireframes and prototypes to visualize ideas and test user flows.
 
-### ◫ Design Systems
+**◫ Design Systems**
 Create consistent and scalable design systems for cohesive digital products.
 
 </td>
 </tr>
 </table>
-
-<br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
@@ -85,35 +81,12 @@ Create consistent and scalable design systems for cohesive digital products.
 ## 🧺 Skills & Tools
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,figma,xd&theme=light" />
 
-**🌿 Development**
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php&theme=light" />
-
-**🎨 UI/UX Design**
-
-<img src="https://skillicons.dev/icons?i=figma,xd&theme=light" /> &nbsp;
-<img src="https://img.shields.io/badge/Canva-FF8FAB?style=for-the-badge&logo=canva&logoColor=white" />
-
+<img src="skills-progress.svg" width="640"/>
 </div>
-
-<br>
-
-**📈 Proficiency**
-
-| Skill | Level | Progress |
-|---|---|---|
-| Figma | 100% | ████████████████████ |
-| Canva | 100% | ████████████████████ |
-| HTML | 95% | ███████████████████░ |
-| CSS | 90% | ██████████████████░░ |
-| Adobe XD | 85% | █████████████████░░░ |
-| Python | 75% | ███████████████░░░░░ |
-| PHP | 65% | █████████████░░░░░░░ |
-| JavaScript | 55% | ███████████░░░░░░░░░ |
-| C++ | 50% | ██████████░░░░░░░░░░ |
-
-<br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
@@ -169,8 +142,6 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 </details>
 
-<br>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
 </div>
@@ -188,8 +159,6 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 🌼 **20+ projects done** across web, mobile, and system design — see the full collection on my [portfolio](https://v0-personal-website-build-dusky.vercel.app).
 
-<br>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
 </div>
@@ -201,16 +170,12 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 - 🐧 Linux Essentials — *Cisco Networking Academy*
 - 🔐 IT Specialist – Cybersecurity — *Pearson*
 
-<br>
-
 ## 🌤️ Goals
 
 - ✨ Enhance my skills in **UI/UX** and **Front-End Development**
 - 🌾 Collaborate on **real-world projects**
 - 🍞 Build scalable web and mobile apps
 - 🌱 Explore **Back-End Development** for full-stack projects
-
-<br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
@@ -223,19 +188,13 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 <img src="https://github-readme-stats.vercel.app/api?username=aicellerosales08&show_icons=true&hide_border=true&title_color=B23A62&text_color=8B2E4F&icon_color=FF9EBB&bg_color=00000000" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=aicellerosales08&hide_border=true&background=00000000&ring=FF9EBB&fire=FF8FAB&currStreakLabel=B23A62&sideLabels=8B2E4F&currStreakNum=8B2E4F&sideNums=8B2E4F&dates=B23A62" width="48%"/>
 
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicellerosales08&layout=compact&hide_border=true&title_color=B23A62&text_color=8B2E4F&bg_color=00000000" width="48%"/>
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aicellerosales08&bg_color=00000000&color=B23A62&line=FF8FAB&point=8B2E4F&hide_border=true" width="90%"/>
 
 </div>
 
 > 🌼 Replace `aicellerosales08` above with your actual GitHub username so the stats pull your real data.
-
-<br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
