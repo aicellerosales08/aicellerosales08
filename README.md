@@ -110,6 +110,11 @@ Create consistent and scalable design systems for cohesive digital products.
 <br><br>
 
 <img src="skills-progress.svg" width="640"/>
+
+<br><br>
+
+<img src="skills-decor.svg" width="70%"/>
+
 </div>
 
 <div align="center">
