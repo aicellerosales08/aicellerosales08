@@ -4,6 +4,10 @@
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=B23A62&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aicelle+%F0%9F%91%8B;Web+Designer+%7C+Frontend+Developer;UI%2FUX+Designer+%F0%9F%8C%B7;Turning+ideas+into+beautiful+experiences" alt="Typing SVG"/>
+
+<br>
+
 [![Portfolio](https://img.shields.io/badge/🌾_View_Portfolio-FFD1DC?style=for-the-badge&logoColor=8B2E4F)](https://v0-personal-website-build-dusky.vercel.app)
 [![Email](https://img.shields.io/badge/Email-FFE4EC?style=for-the-badge&logo=gmail&logoColor=8B2E4F)](mailto:aicellerosales08@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD9E6?style=for-the-badge&logo=linkedin&logoColor=8B2E4F)](https://www.linkedin.com/in/aicelle-r-66298537b/)
