@@ -38,22 +38,11 @@ I work with HTML, CSS, JavaScript, PHP, Python, SQL, MySQL, React, Next.js, Tail
 
 I'm currently expanding my knowledge in back-end and full-stack development, APIs, databases, modern web technologies, website optimization, and scalable digital applications. 🌻
 
-```yaml
-Name: Aicelle Rosales
-Role: Web Designer • Developer • UI/UX Designer
-Location: Philippines 🇵🇭
-Currently Working: Web Designer — Wix Website Projects
-Currently Learning: Back-End Development • Full-Stack Development
-Fun Fact: I turn coffee ☕ and Figma frames into functional digital experiences.
-```
+<div align="center">
+<img src="profile-card.svg" width="640"/>
+</div>
 
 > *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
-
-<div align="center">
-
-<img src="profile-card.svg" width="640"/>
-
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
