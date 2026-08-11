@@ -116,13 +116,10 @@ Create consistent and scalable design systems for cohesive digital products.
 
 <br><br>
 
-<img src="skills-progress-full.svg" width="700"/>
-
+<img src="skills-progress.svg" width="640"/>
 <br><br>
-
 <img src="skills-decor.svg" width="70%"/>
-
-</div>
+</div
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
