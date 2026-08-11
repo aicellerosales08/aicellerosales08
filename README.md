@@ -30,20 +30,28 @@ i <div align="center">
 
 ## 🌷 About Me
 
-I'm a **Web Designer, Frontend Developer, and UI/UX Designer** with experience creating responsive websites, intuitive interfaces, and functional digital solutions. I combine creative design and development skills to turn ideas into engaging, user-friendly digital experiences. 🍞
+I'm a Web Designer, Developer, and UI/UX Designer currently working on Wix website projects for clients, creating responsive, visually engaging, and user-friendly websites. I combine design, development, and problem-solving skills to transform ideas into polished digital experiences that are both functional and intuitive. 🍞
 
-Currently an IT student & professional exploring web development, UI/UX design, and creative digital solutions — always learning, always growing. 🌻
+With experience in web design, website development, UI/UX design, graphic design, and digital solutions, I enjoy turning concepts and designs into functional websites while continuously exploring new technologies and creative approaches.
+
+I work with HTML, CSS, JavaScript, PHP, Python, SQL, MySQL, React, Next.js, Tailwind CSS, Wix, Figma, Adobe XD, Photoshop, Illustrator, Canva, Git, GitHub, and Vercel, along with various AI-powered tools that support my design and development workflow.
+
+I'm currently expanding my knowledge in back-end and full-stack development, APIs, databases, modern web technologies, website optimization, and scalable digital applications. 🌻
 
 ```yaml
 Name: Aicelle Rosales
-Role: Web Designer • Frontend Developer • UI/UX Designer
+Role: Web Designer • Developer • UI/UX Designer
 Location: Philippines 🇵🇭
-Currently Building: Wix websites for Malama Co. clients
-Currently Learning: Back-End Development
-Fun Fact: I turn coffee ☕ and Figma frames into full experiences
+Currently Working: Web Designer — Wix Website Projects
+Currently Learning: Back-End Development • Full-Stack Development
+Fun Fact: I turn coffee ☕ and Figma frames into functional digital experiences.
 ```
 
 > *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+
+<div align="center">
+<img src="aboutme-decor.svg" width="70%"/>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
