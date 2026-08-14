@@ -330,8 +330,6 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
 </div>
 
-## 🏆 Trophies
-
 <div align="center">
 
 <img src="playful-vibes.svg" width="100%"/>
