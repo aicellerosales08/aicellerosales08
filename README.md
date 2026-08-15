@@ -32,13 +32,14 @@
 
 ## 🌷 About Me
 
-I'm a Web Designer, Developer, and UI/UX Designer currently working on Wix website projects for clients, creating responsive, visually engaging, and user-friendly websites. I combine design, development, and problem-solving skills to transform ideas into polished digital experiences that are both functional and intuitive. 🍞
+I'm a Web Designer, Developer, and UI/UX Designer focused on creating responsive, visually engaging, and user-centered digital experiences. I combine design, development, and problem-solving to turn ideas into polished websites and functional web applications.
 
-With experience in web design, website development, UI/UX design, graphic design, and digital solutions, I enjoy turning concepts and designs into functional websites while continuously exploring new technologies and creative approaches.
+I currently work on Wix website projects for clients, while continuously building my skills in modern web development, UI/UX, and full-stack technologies. I enjoy transforming designs into responsive interfaces, improving user experiences, and finding practical solutions to technical and design challenges.
 
-I work with HTML, CSS, JavaScript, PHP, Python, SQL, MySQL, React, Next.js, Tailwind CSS, Wix, Figma, Adobe XD, Photoshop, Illustrator, Canva, Git, GitHub, and Vercel, along with various AI-powered tools that support my design and development workflow.
+Tech & Tools:
+HTML • CSS • JavaScript • PHP • Python • SQL • MySQL • React • Next.js • Tailwind CSS • Wix • Figma • Adobe XD • Photoshop • Illustrator • Canva • Git • GitHub • Vercel
 
-I'm currently expanding my knowledge in back-end and full-stack development, APIs, databases, modern web technologies, website optimization, and scalable digital applications. 🌻
+I'm currently expanding my knowledge in React, Next.js, APIs, databases, backend development, full-stack applications, website optimization, and modern web technologies while exploring how AI-powered tools can improve both development and creative workflows. 🌻
 
 <div align="center">
 <img src="profile-card.svg" width="640"/>
