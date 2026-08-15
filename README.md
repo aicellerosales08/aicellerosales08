@@ -142,6 +142,17 @@ Manage and maintain Wix websites for Australian clients, build service landing p
 </details>
 
 <details>
+<summary><b>🌸 Quality Assurance Tester — Assemble</b> (Jul 2026 – Aug 2026)</summary>
+
+*Part-time · Remote*
+
+Tested websites and applications to identify bugs, usability issues, and inconsistencies. Created detailed bug reports with clear reproduction steps and expected versus actual results. Performed functional, UI, and regression testing to help ensure quality, reliability, and a smooth user experience. Collaborated with the team to verify fixes and improve overall product quality.
+
+`Quality Assurance` `Manual Testing` `Functional Testing` `Test Case Creation`
+
+</details>
+
+<details>
 <summary><b>🌻 AI Training Data Contributor — Outlier</b> (May 2026 – Jul 2026)</summary>
 
 *Part-time · Remote*
