@@ -34,7 +34,7 @@
 
 I'm a Web Designer, Developer, and UI/UX Designer focused on creating responsive, visually engaging, and user-centered digital experiences. I combine design, development, and problem-solving to turn ideas into polished websites and functional web applications.
 
-I currently work on Wix website projects for clients, while continuously building my skills in modern web development, UI/UX, and full-stack technologies. I enjoy transforming designs into responsive interfaces, improving user experiences, and finding practical solutions to technical and design challenges.
+I currently work on Wix website projects for clients, while continuously building my skills in modern web development, UI/UX, and full-stack technologies. I enjoy transforming designs into responsive interfaces, improving user experiences, and finding practical solutions to technical and design Challenges.
 
 Tech & Tools:
 HTML • CSS • JavaScript • PHP • Python • SQL • MySQL • React • Next.js • Tailwind CSS • Wix • Figma • Adobe XD • Photoshop • Illustrator • Canva • Git • GitHub • Vercel
