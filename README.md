@@ -322,7 +322,7 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 <img src="stats-decor.svg" width="70%"/>
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=aicellerosales08&show_icons=true&hide_border=true&title_color=B23A62&text_color=8B2E4F&icon_color=FF9EBB&bg_color=00000000" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=aicellerosales08&background=00000000&ring=FF9EBB&fire=FF8FAB&currStreakLabel=B23A62&sideLabels=8B2E4F&currStreakNum=8B2E4F&sideNums=8B2E4F&dates=B23A62" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=aicellerosales08&hide_border=true&background=00000000&ring=FF9EBB&fire=FF8FAB&currStreakLabel=B23A62&sideLabels=8B2E4F&currStreakNum=8B2E4F&sideNums=8B2E4F&dates=B23A62" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicellerosales08&layout=compact&hide_border=true&title_color=B23A62&text_color=8B2E4F&bg_color=00000000" width="48%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aicellerosales08&bg_color=00000000&color=B23A62&line=FF8FAB&point=8B2E4F&hide_border=true" width="90%"/>
 <br>
