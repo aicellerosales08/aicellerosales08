@@ -334,7 +334,7 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 <div align="center">
 <img src="playful-vibes.svg" width="100%"/>
 <br>
-<strong>Thanks for visiting my little corner of GitHub 🌾🍄</strong>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=14&duration=2500&pause=800&color=B23A62&center=true&vCenter=true&width=400&lines=Let's+create+something+beautiful+together+%E2%99%A1" alt="Typing SVG"/>
+<p align="center"><strong>Thanks for visiting my little corner of GitHub 🌾🍄</strong></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=14&duration=2500&pause=800&color=B23A62&center=true&vCenter=true&width=400&lines=Let's+create+something+beautiful+together+%E2%99%A1" alt="Typing SVG"/></p>
 </div>
 
