@@ -328,9 +328,11 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 <br>
 <img src="stats-decor.svg" width="70%"/>
 </div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
 </div>
+
 <div align="center">
 <img src="playful-vibes.svg" width="100%"/>
 <br>
