@@ -319,18 +319,21 @@ Annotated and reviewed datasets for AI model training with a focus on accuracy a
 
 ## 🌻 GitHub Stats
 <div align="center">
-
+<img src="stats-decor.svg" width="70%"/>
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=aicellerosales08&show_icons=true&hide_border=true&title_color=B23A62&text_color=8B2E4F&icon_color=FF9EBB&bg_color=00000000" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=aicellerosales08&hide_border=true&background=00000000&ring=FF9EBB&fire=FF8FAB&currStreakLabel=B23A62&sideLabels=8B2E4F&currStreakNum=8B2E4F&sideNums=8B2E4F&dates=B23A62" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicellerosales08&layout=compact&hide_border=true&title_color=B23A62&text_color=8B2E4F&bg_color=00000000" width="48%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aicellerosales08&bg_color=00000000&color=B23A62&line=FF8FAB&point=8B2E4F&hide_border=true" width="90%"/>
-
+<br>
+<img src="stats-decor.svg" width="70%"/>
 </div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="60%"/>
 </div>
-
+<div align="center">
+<img src="playful-vibes.svg" width="100%"/>
+<br>
 **Thanks for visiting my little corner of GitHub 🌾🍄**
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=14&duration=2500&pause=800&color=B23A62&center=true&vCenter=true&width=400&lines=Let's+create+something+beautiful+together+%E2%99%A1" alt="Typing SVG"/>
